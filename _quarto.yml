@@ -4,7 +4,7 @@ project:
 
 book:
   title: "Zelha Tunc Pekkan Progress Journal"
-  repo-url: https://github.com/pjournal/gh-pages-quarto-template
+  repo-url: https://github.com/Zelha2024/Assignment1
   chapters:
     - index.qmd
     - assignment1.qmd
